@@ -33,7 +33,10 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div style="text-align: left;">  
-      <img src="https://github-readme-stats.vercel.app/api?username=spear-dev&show_icons=true&theme=radical"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spear-dev&layout=compact"/> 
+      <!-- GitHub 커밋 그래프 -->
+      <img src="https://activity-graph.herokuapp.com/graph?username=spear-dev&theme=react-dark"/>
+      <!-- 팔로워 수 배지 -->
+      <img src="https://img.shields.io/github/followers/spear-dev?style=for-the-badge"/>
   </div> 
 </div>
+
