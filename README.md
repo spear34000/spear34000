@@ -30,19 +30,12 @@
   </div>
 </div>
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <div style="text-align: left;"> 
-    
-    <img src="https://img.shields.io/github/commit-activity/w/spear34000?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Total Commits"/>
-     
-    <img src="https://img.shields.io/github/followers/spear34000?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Followers"/>
-     
-    <img src="https://img.shields.io/github/stars/spear34000?style=for-the-badge&color=facc15&labelColor=282c34" alt="Stars"/>
-     
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spear34000&theme=dark&hide_border=true" alt="Streak Stats"/>
-  </div> 
-</div>
+## 🏅 Stats
+
+![Total Commits](https://img.shields.io/github/commit-activity/w/spear34000?style=for-the-badge&color=4ade80&labelColor=282c34)
+![Followers](https://img.shields.io/github/followers/spear34000?style=for-the-badge&color=4ade80&labelColor=282c34)
+![Stars](https://img.shields.io/github/stars/spear34000?style=for-the-badge&color=facc15&labelColor=282c34)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=spear34000&theme=dark&hide_border=true)
 
 
 
