@@ -35,11 +35,11 @@
   <div style="text-align: left;"> 
     <img src="https://img.shields.io/github/commit-activity/w/spear34000?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Total Commits"/>
      
-    <img src="https://img.shields.io/github/followers/spear-dev?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/spear34000?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Followers"/>
      
-    <img src="https://img.shields.io/github/stars/spear-dev?style=for-the-badge&color=facc15&labelColor=282c34" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/spear34000?style=for-the-badge&color=facc15&labelColor=282c34" alt="Stars"/>
      
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spear-dev&theme=dark&hide_border=true" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spear34000&theme=dark&hide_border=true" alt="Streak Stats"/>
   </div> 
 </div>
 
