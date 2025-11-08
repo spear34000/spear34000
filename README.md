@@ -31,17 +31,20 @@
 </div>
 
 <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-
-<!-- GitHub 팔로워 배지 -->
-![팔로워](https://img.shields.io/github/followers/spear-dev?style=for-the-badge&color=4ade80&labelColor=282c34)
-
-<!-- GitHub 스타 배지 -->
-![스타](https://img.shields.io/github/stars/spear-dev?style=for-the-badge&color=facc15&labelColor=282c34)
-
-<!-- 커밋 그래프 -->
-![커밋 그래프](https://activity-graph.herokuapp.com/graph?username=spear-dev&theme=react-dark&area=true)
-
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+  <div style="text-align: left;">  
+      <!-- 총 커밋 수 배지 -->
+      <img src="https://img.shields.io/github/commit-activity/w/spear-dev?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Total Commits"/>
+      
+      <!-- GitHub 팔로워 배지 -->
+      <img src="https://img.shields.io/github/followers/spear-dev?style=for-the-badge&color=4ade80&labelColor=282c34" alt="Followers"/>
+      
+      <!-- GitHub 스타 배지 -->
+      <img src="https://img.shields.io/github/stars/spear-dev?style=for-the-badge&color=facc15&labelColor=282c34" alt="Stars"/>
+      
+      <!-- GitHub Streak (연속 활동 일수) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=spear-dev&theme=dark&hide_border=true" alt="Streak Stats"/>
+  </div> 
 </div>
 
 
