@@ -2,7 +2,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Spear's GitHub </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     <p style="margin: 8px 0 4px 0;">안녕하세요. 카카오톡 봇을 만들고 앱 개발 공부를 하고 있는 <strong>스피어</strong>입니다.</p>
-    <p style="margin: 0;">Discord: <strong>spear_dev</strong> &nbsp;·&nbsp; Email: <strong>contact@spear.dev</strong></p>
   </div>
 </div>
 
