@@ -33,11 +33,16 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div style="text-align: left;">  
-      <!-- GitHub 커밋 그래프 -->
-      <img src="https://activity-graph.herokuapp.com/graph?username=spear-dev&theme=react-dark"/>
-      <!-- 팔로워 수 배지 -->
-      <img src="https://img.shields.io/github/followers/spear-dev?style=for-the-badge"/>
+      <!-- 커밋 그래프 (컬러풀, 다크 테마) -->
+      <img src="https://activity-graph.herokuapp.com/graph?username=spear-dev&theme=react-dark&area=true"/>
+      
+      <!-- GitHub 팔로워 배지 -->
+      <img src="https://img.shields.io/github/followers/spear-dev?style=for-the-badge&color=4ade80&labelColor=282c34"/>
+      
+      <!-- GitHub 스타 배지 -->
+      <img src="https://img.shields.io/github/stars/spear-dev?style=for-the-badge&color=facc15&labelColor=282c34"/>
   </div> 
 </div>
+
 
 
