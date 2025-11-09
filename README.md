@@ -1,6 +1,5 @@
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Spear's GitHub </h2>
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+
     <h1 style="margin: 8px 0 4px 0;">안녕하세요. 카카오톡 봇을 만들고 앱 개발 공부를 하고 있는 <strong>스피어</strong>입니다.</h1>
   </div>
 </div>
