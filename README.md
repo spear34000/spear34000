@@ -23,9 +23,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧰 Dev Tools </h2><br>
   <div style="text-align: left;">
       <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-      <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
   </div>
 </div>
 
