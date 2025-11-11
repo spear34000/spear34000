@@ -1,6 +1,6 @@
 <div style="text-align: left;">
 
-   <h1>안녕하세요. 카카오톡 봇을 만들고 앱 개발 공부를 하고 있는 <strong>스피어</strong>입니다.</h1>
+   <h1>안녕하세요. 카카오톡 봇을 만들고 <br>앱 개발 공부를 하고 있는 <strong>스피어</strong>입니다.</h1>
   </div>
 </div>
 
