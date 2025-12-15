@@ -6,12 +6,11 @@
 
   <h2 style="font-weight: normal; line-height: 1.4;">
     카카오톡 봇 만들다 인생을 갈아 넣고 있는<br>
-    앱 개발 지망생 <strong style="color:#4dd0e1;">스피어</strong>입니다.
+   <strong style="color:#4dd0e1;">스피어</strong>입니다.
   </h2>
 
   <p style="opacity: 0.85; margin-top: 12px;">
-    자동화 · 봇 · 서버 · 모바일  
-    <br>귀찮은 걸 코드로 없애는 걸 좋아합니다.
+    카카오톡 봇과, 바이브코딩 좋아합니다.
   </p>
 
 </div>
