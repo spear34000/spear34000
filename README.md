@@ -29,7 +29,8 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge&logo=rocket&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-AI%20IDE-0A0A0A?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=wave&logoColor=white)
+
 
 
 
