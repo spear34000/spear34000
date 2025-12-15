@@ -5,8 +5,7 @@
   </h1>
 
   <h2 style="font-weight: normal; line-height: 1.4;">
-    카카오톡 봇 만들다 인생을 갈아 넣고 있는<br>
-   <strong style="color:#4dd0e1;">스피어</strong>입니다.
+    카카오톡 봇 만들다 인생을 갈아 넣고 있는<strong style="color:#4dd0e1;">스피어</strong>입니다.
   </h2>
 
   <p style="opacity: 0.85; margin-top: 12px;">
