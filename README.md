@@ -30,7 +30,7 @@
 ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge&logo=rocket&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=wave&logoColor=white)
-
+![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 
 
 
