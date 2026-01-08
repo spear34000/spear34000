@@ -38,7 +38,7 @@
 ## 🏅 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spear34000&theme=tokyonight&hide_border=true" />
 </p>
