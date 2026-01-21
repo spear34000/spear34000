@@ -41,5 +41,5 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&theme=tokyonight&hide_border=true" />
   <br> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spear34000&theme=tokyonight&hide_border=true" />
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=endlessarch&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/endlessarch)
 </p>
