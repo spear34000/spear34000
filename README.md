@@ -42,3 +42,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&hide_langs_below=0.5&theme=tokyonight)](#)
+
+[![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=AleA&theme=tokyonight)](https://github.com/spear34000/iris-kt)
