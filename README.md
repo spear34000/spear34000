@@ -4,7 +4,8 @@
 ### 카카오톡 봇 만들다 인생을 갈아 넣는 사람입니다!
 
 카카오톡 봇 · 자동화 · 바이브 코딩을 좋아합니다
-![Profile Views](https://komarev.com/ghpvc/?username=spear34000&style=for-the-badge&color=6E40C9)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spear34000)
+
 </div>
 
 ---
