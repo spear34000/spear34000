@@ -38,5 +38,9 @@
 
 ## 🏅 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&hide_langs_below=0.5&theme=tokyonight)](#) [![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight)](https://github.com/spear34000/Iris-kt)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/endlessarch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/spear34000)
+
+[![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight)](https://github.com/spear34000/Iris-kt)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/spear34000)
+
