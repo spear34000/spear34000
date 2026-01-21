@@ -38,8 +38,5 @@
 
 ## 🏅 Stats
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br> -->
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=endlessarch&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/endlessarch)
-</p>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=endlessarch&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/endlessarch)
+
