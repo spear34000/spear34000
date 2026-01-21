@@ -65,5 +65,5 @@
 [![Iris-kt](https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight)](https://github.com/spear34000/Iris-kt)
 
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=spear34000&style=for-the-badge&color=6E40C9)
+[![Profile Views](https://komarev.com/ghpvc/?username=spear34000&style=for-the-badge&color=6E40C9)
 
