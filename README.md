@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spear34000&show_icons=true&count_private=true&theme=tokyonight" />
 
 </div>
 
@@ -63,6 +63,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight" />
 
 </div>
