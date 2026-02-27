@@ -4,7 +4,7 @@
 
 카카오톡 봇 · 자동화 · 바이브 코딩을 좋아합니다  
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spear34000&count_bg=%237F52FF&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=spear34000&color=7F52FF&style=for-the-badge)
 
 </div>
 
