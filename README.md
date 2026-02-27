@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👾 SPEAR 👾
-### 카카오톡 봇 만들다 인생을 갈아 넣는 사람입니다!
 
-카카오톡 봇 · 자동화 · 바이브 코딩을 좋아합니다
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spear34000)
+카카오톡 봇 · 자동화 · 바이브 코딩을 좋아합니다  
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spear34000&count_bg=%237F52FF&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
 </div>
 
@@ -21,8 +21,8 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -39,7 +39,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/spear34000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/spear34000)
+<img src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800" />
 
 </div>
 
@@ -63,8 +63,6 @@
 
 <div align="center">
 
-[![Iris-kt](https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight)](https://github.com/spear34000/Iris-kt)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight&cache_seconds=1800" />
 
 </div>
-
-
