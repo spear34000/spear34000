@@ -1,70 +1,95 @@
 <div align="center">
 
-# 👾 SPEAR 👾
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:6D28D9,100:A855F7&text=SPEAR&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Local%20AI%20%E2%80%A2%20Systems%20%E2%80%A2%20Security%20%E2%80%A2%20Automation&descAlignY=57&animation=fadeIn" width="100%" alt="SPEAR banner" />
 
-카카오톡 봇 · 자동화 · 바이브 코딩을 좋아합니다  
+### Building fast, practical things close to the metal.
 
-![Profile Views](https://komarev.com/ghpvc/?username=spear34000&color=7F52FF&style=for-the-badge)
+I like experimenting with **local AI**, **inference runtimes**, **developer tools**,  
+**backend systems**, **Android**, and automation that actually saves time.
 
-</div>
+<br/>
 
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<a href="https://github.com/spear34000?tab=followers"><img src="https://img.shields.io/github/followers/spear34000?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=spear34000&style=flat-square&color=7c3aed&label=Profile+views" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🧰 Dev Tools
+## `> whoami`
+
+```text
+SPEAR
+├─ interested in   local LLMs, runtimes, systems, security
+├─ likes           building + benchmarking + optimizing
+├─ usually uses    C/C++, Rust, TypeScript, Python, Kotlin
+└─ current focus   making powerful software run on ordinary hardware
+```
+
+I prefer projects where I can **measure the difference** — lower latency, less memory,
+simpler APIs, or fewer annoying steps for the user.
+
+---
+
+## `> stack`
 
 <div align="center">
 
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,rust,ts,js,python,kotlin,react,nodejs,androidstudio,docker,git,linux&perline=12" alt="Tech stack" />
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Local%20AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Systems-1F2937?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-312E81?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Stats
+## `> selected_work`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [presto](https://github.com/spear34000/presto)
+A compact **LLM inference/runtime** project focused on running models fast across different hardware.
+
+`C/C++` `GGUF` `Vulkan` `SYCL` `MLX`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [Gwageo Explorer](https://github.com/spear34000/Gwageo_Explorer)
+**과거탐색기** — 과거 기록을 더 쉽게 찾아보고 탐색하기 위한 프로젝트.
+
+`Data` `Search` `Web`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github`
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spear34000&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spear34000&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spear34000&show_icons=true&count_private=true&theme=tokyonight" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spear34000&theme=github-compact&hide_border=true&area=true" width="95%" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## 📌 Featured Project
-
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spear34000&repo=Iris-kt&theme=tokyonight" />
+<sub>Build it. Measure it. Make it better.</sub>
 
 </div>
