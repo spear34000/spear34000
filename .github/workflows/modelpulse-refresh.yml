@@ -1,0 +1,58 @@
+name: ModelPulse catalog refresh
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/modelpulse-refresh.yml'
+
+permissions: {}
+
+concurrency:
+  group: modelpulse-catalog-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Trigger and verify catalog refresh
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import datetime
+          import json
+          import sys
+          import time
+          import urllib.error
+          import urllib.request
+
+          url = "https://modelpulse-intelligence.lvl.chatgpt.site/api/status"
+          for attempt in range(16):
+              try:
+                  request = urllib.request.Request(
+                      url, headers={"User-Agent": "ModelPulse-scheduler/1.0", "Cache-Control": "no-cache"}
+                  )
+                  with urllib.request.urlopen(request, timeout=20) as response:
+                      status = json.load(response)
+                  source = next((s for s in status.get("sources", []) if s.get("source") == "models.dev"), None)
+                  if not source:
+                      raise ValueError("models.dev status missing")
+                  timestamp = source.get("last_success")
+                  age = float("inf")
+                  if timestamp:
+                      seen = datetime.datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+                      age = (datetime.datetime.now(datetime.timezone.utc) - seen).total_seconds()
+                  print(f"status={source.get('status')} age_seconds={age:.0f}", flush=True)
+                  if source.get("status") == "ok" and 0 <= age <= 6 * 3600:
+                      print("Catalog is current.")
+                      sys.exit(0)
+              except (ValueError, OSError, KeyError, json.JSONDecodeError) as error:
+                  print(f"Attempt {attempt + 1}: {error}", file=sys.stderr, flush=True)
+              time.sleep(5)
+          print("Catalog refresh did not finish successfully.", file=sys.stderr)
+          sys.exit(1)
+          PY
